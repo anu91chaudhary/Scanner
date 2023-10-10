@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_0">#FFFFFF</color>
+    <color name="blue_13">#414153</color>
+    <color name="camera_stroke_color">#808A8AA9</color>
+
+    <!-- black color -->
+    <color name="black_0">#000000</color>
+    <color name="red_0_with_opacity">#33C5003E</color>
+
+</resources>

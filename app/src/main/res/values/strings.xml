@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScannerSample</string>
+    <string name="scan_qr_Code">Scanner</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="permission_msg">It is important to provide this permission for seamless experience. Application will exit automatically.</string>
+</resources>
